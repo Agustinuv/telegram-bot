@@ -1,10 +1,10 @@
-# Firefighters API
+# Telegram bot API
 
 ## Author: Agustín Urrutia Vega
 
 ## Description
 
-The main idea of this API its to manage the users of the firefighters app, and the hydrants of the city.
+Idea: create a bot that sends you a message to remember the birthday of your friends and where you can add new birthdays to the database.
 
 ## Start
 
